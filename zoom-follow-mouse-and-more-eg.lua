@@ -2,6 +2,12 @@
 -- Zoom, Follow Mouse and MORE for OBS Studio
 -- Version 2.2.0 (2026)
 -- ============================================================================
+--
+-- This file is a macOS-focused derivative of the upstream project by
+-- Edoardo Guzzi (@mredodos):
+-- https://github.com/mredodos/zoom-and-follow-and-more-eg
+-- Upstream license: GNU GPL v3.0
+-- This fork is not affiliated with the OBS Project or the upstream author.
 
 local obs = obslua
 local ffi = require("ffi")
